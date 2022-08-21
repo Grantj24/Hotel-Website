@@ -9,6 +9,12 @@
   justify-content: center;
 }
 
+h3{
+  padding-top: -200px;
+  padding-bottom: -50px;
+  margin: -20px 0px 200px 0px;
+}
+
 
 label{
   color: white;
