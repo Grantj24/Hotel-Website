@@ -10,11 +10,11 @@
   justify-content: center;
 }
 
-h1{
+.title {
   margin-left: 40px;
 }
 
-h3{
+.title-description {
   padding-top: -200px;
   padding-bottom: -50px;
   margin: -20px 0px 275px 0px;
@@ -40,6 +40,6 @@ label{
 }
 
 html {
-  background: url("hotel background.jpg") no-repeat center center fixed;
+  background: url("hotelBackground.jpg") no-repeat center center fixed;
   background-size: cover;
 }
