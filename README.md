@@ -2,7 +2,7 @@
 
 A simple hotel booking form website made using HTML and CSS only to practice HTML form elements.
 
-Check it out here: https://grantj24.github.io/Hotel-Website/
+Check it out here:
 
  <img width="1279" alt="hotel booking landing page" src="https://user-images.githubusercontent.com/46577330/185800961-76c11add-b12e-4a00-884a-af3c479aae2d.png">
 
