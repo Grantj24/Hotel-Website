@@ -4,7 +4,7 @@ A simple hotel booking form website made using HTML and CSS only to practice HTM
 
 Check it out [here](https://grantj24.github.io/Hotel-Website/)
 
- <img width="1279" alt="hotel booking landing page" src="https://user-images.githubusercontent.com/46577330/185800961-76c11add-b12e-4a00-884a-af3c479aae2d.png">
+ <img width="1279" alt="hotel booking landing page" src=https://user-images.githubusercontent.com/46577330/188704232-98b6d08d-fba4-431a-aa71-61a4befa6723.jpg>
 
 
 ## Summary
